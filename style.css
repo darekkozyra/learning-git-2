@@ -1,0 +1,20 @@
+
+/*Global*/
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 20px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    color: blue;
+}
+.main{
+    margin: 0 auto;
+    padding: 0 20px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
